@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi!! I'm Guilherme Yoshizawa, a passioante about technology!</p>
+<p align="left">Hi!! I'm Guilherme Yoshizawa, a passionate about technology!</p>
 
 ###
 
